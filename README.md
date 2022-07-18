@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=JavaScript&logoColor=white"/>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ParkRio&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ParkRio&margin-w=30&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **ParkRio/ParkRio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
