@@ -1,8 +1,8 @@
 ### Hi there 👋
-
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-FFF000?style=flat-square&logo=JavaScript&logoColor=white"/>
-
+<p align=center>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFF000?style=flat-square&logo=JavaScript&logoColor=white"/>
+</p>
 <!--
 **ParkRio/ParkRio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
