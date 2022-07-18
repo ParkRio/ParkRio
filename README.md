@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/JavaScript-FFF000?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ IDE-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 </p>
 
 
