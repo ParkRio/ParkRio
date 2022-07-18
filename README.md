@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/JavaScript-FFF000?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-#000000?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJIDEA-#000000?style=flat-square&logo=JavaScript&logoColor=white"/>
 </p>
 <!--
 **ParkRio/ParkRio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
