@@ -9,8 +9,6 @@
 
 -----
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sw_park0205@naver.com)](https://solved.ac/sw_park0205@naver.com/)
-
 <p align=center>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
